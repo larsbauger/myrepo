@@ -9,3 +9,5 @@ nå er det på norsk
 
 hvorfor vil ikke dette opp?
 ta line written lovally 
+
+Denne linjen er på ny pc via rstudio
