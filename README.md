@@ -8,4 +8,4 @@ A line i wrote at home
 nå er det på norsk
 
 hvorfor vil ikke dette opp?
-t
+ta line written lovally 
